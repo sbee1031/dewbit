@@ -23,7 +23,7 @@ CKAD(Certified Kubernetes Application Developer)자격증은 리눅스 재단(Th
 시험방식, 장소 및 환경, 시뮬레이터(killer.sh), 팁 등 시험에 관련한 정보는 CKA와 동일하여 CKA 취득후기를 참고 바란다.
 
 {{< cards >}}
-  {{< card link="/docs/cka/result" title="CKA 취득후기" icon="document-text" >}}
+  {{< card link="/docs/certifications/kubernetes/cka-result/" title="CKA 취득후기" icon="document-text" >}}
 {{< /cards >}}
 
 
